@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:64c67371edad02527adb58dc3ccd609588f6842cd6432a6a595364492e1d102b
-size 423
+[
+    {
+      "id": "sample-card",
+      "name": "Sample Card",
+      "jsonUrl": "https://raw.githubusercontent.com/hen-tu/polotno-assets-cf/mainhttps://raw.githubusercontent.com/hen-tu/polotno-assets-cf/main/photos/sample-card.json",
+      "previewUrl": "https://raw.githubusercontent.com/hen-tu/polotno-assets-cf/mainhttps://raw.githubusercontent.com/hen-tu/polotno-assets-cf/main/photos/sample-card.jpg"
+    }
+  ]
