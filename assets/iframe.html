@@ -22,28 +22,31 @@
       overflow: hidden;
     }
 
-    /* Base toolbar styling */
+/*material style for top bar*/
+    /* Base toolbar container */
 .polotno-toolbar {
   font-size: 15px;
-  padding: 8px 12px;
+  padding: 10px 14px;
   gap: 10px;
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #ddd;
 }
 
-/* Button style */
+/* Light-style buttons */
 .polotno-toolbar .bp5-button {
-  background-color: #1976d2; /* Material blue */
-  color: white;
-  border: none;
+  background-color: #ffffff;
+  color: #333;
+  border: 1px solid #ccc;
   border-radius: 6px;
-  padding: 8px 16px;
+  padding: 8px 14px;
   font-weight: 500;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
   transition: background-color 0.2s ease, box-shadow 0.2s ease;
 }
 
 .polotno-toolbar .bp5-button:hover {
-  background-color: #1565c0;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.25);
+  background-color: #f0f0f0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 /* Icon sizing inside buttons */
@@ -52,25 +55,30 @@
   height: 20px;
 }
 
-/* Select dropdowns */
+/* Dropdown selects */
 .polotno-toolbar .bp5-html-select select {
   padding: 8px 12px;
   border-radius: 6px;
   border: 1px solid #ccc;
   font-size: 15px;
-  height: auto;
+  background-color: #fff;
+  color: #333;
 }
 
-/* Popovers (e.g. color pickers) */
+/* Popover targets (e.g., color pickers) */
 .polotno-toolbar .bp5-popover-target {
   border-radius: 6px;
   padding: 8px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
 }
 
-/* Optional: increase spacing between elements */
+/* Extra spacing between toolbar items */
 .polotno-toolbar > * {
   margin-right: 8px;
 }
+    
     /*side panel styling*/
   .polotno-side-panel-tab {
     color: #444;
