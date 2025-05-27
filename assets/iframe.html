@@ -22,63 +22,41 @@
       overflow: hidden;
     }
 
-/*material style for top bar*/
-    /* Base toolbar container */
+/*style for top bar*/
+/* Make the top toolbar white and slightly taller */
 .polotno-toolbar {
-  font-size: 15px;
-  padding: 10px 14px;
-  gap: 10px;
-  background-color: #f9f9f9;
-  border-bottom: 1px solid #ddd;
-}
-
-/* Light-style buttons */
-.polotno-toolbar .bp5-button {
   background-color: #ffffff;
-  color: #333;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-  padding: 8px 14px;
-  font-weight: 500;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
-  transition: background-color 0.2s ease, box-shadow 0.2s ease;
-}
-
-.polotno-toolbar .bp5-button:hover {
-  background-color: #f0f0f0;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-/* Icon sizing inside buttons */
-.polotno-toolbar .bp5-button svg {
-  width: 20px;
-  height: 20px;
-}
-
-/* Dropdown selects */
-.polotno-toolbar .bp5-html-select select {
-  padding: 8px 12px;
-  border-radius: 6px;
-  border: 1px solid #ccc;
+  padding: 10px 16px;
+  gap: 10px;
   font-size: 15px;
-  background-color: #fff;
-  color: #333;
+  border-bottom: 1px solid #e0e0e0;
 }
 
-/* Popover targets (e.g., color pickers) */
+/* Slightly enlarge buttons */
+.polotno-toolbar .bp5-button {
+  font-size: 15px;
+  padding: 6px 12px;
+  height: auto;
+}
+
+/* Slightly enlarge icons */
+.polotno-toolbar .bp5-button svg {
+  width: 18px;
+  height: 18px;
+}
+
+/* Slightly enlarge select boxes */
+.polotno-toolbar .bp5-html-select select {
+  font-size: 15px;
+  padding: 6px 10px;
+  height: auto;
+}
+
+/* Enlarge color pickers / popover triggers */
 .polotno-toolbar .bp5-popover-target {
-  border-radius: 6px;
-  padding: 8px;
-  background-color: #fff;
-  border: 1px solid #ccc;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
-}
-
-/* Extra spacing between toolbar items */
-.polotno-toolbar > * {
-  margin-right: 8px;
-}
-    
+  font-size: 15px;
+  padding: 6px 10px;
+}    
     /*side panel styling*/
   .polotno-side-panel-tab {
     color: #444;
