@@ -24,44 +24,33 @@
 
 /*style for top bar*/
     
-/* Top toolbar container */
+/* Force override of the inline styles on the top toolbar */
 .polotno-toolbar.bp5-navbar {
   background-color: #ffffff !important;
   padding: 10px 16px !important;
-  gap: 10px;
-  font-size: 15px !important;
-  border-bottom: 1px solid #e0e0e0;
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
+  gap: 12px !important;
+  overflow-x: auto !important;
+  border-bottom: 1px solid #e0e0e0 !important;
 }
 
-/* Buttons in the toolbar */
+/* Slightly increase font size in entire toolbar */
+.polotno-toolbar.bp5-navbar,
+.polotno-toolbar.bp5-navbar * {
+  font-size: 15px !important;
+}
+
+/* Enlarge buttons */
 .polotno-toolbar.bp5-navbar .bp5-button {
-  font-size: 15px !important;
   padding: 6px 12px !important;
-  height: auto !important;
+  min-height: 34px !important;
 }
 
-/* Icons inside buttons */
-.polotno-toolbar.bp5-navbar .bp5-button svg {
+/* Enlarge icons */
+.polotno-toolbar.bp5-navbar .bp5-icon svg,
+.polotno-toolbar.bp5-navbar svg {
   width: 18px !important;
   height: 18px !important;
 }
-
-/* Select dropdowns */
-.polotno-toolbar.bp5-navbar .bp5-html-select select {
-  font-size: 15px !important;
-  padding: 6px 10px !important;
-  height: auto !important;
-}
-
-/* Popover targets (color pickers, etc.) */
-.polotno-toolbar.bp5-navbar .bp5-popover-target {
-  font-size: 15px !important;
-  padding: 6px 10px !important;
-}
-
     
     /*side panel styling*/
   .polotno-side-panel-tab {
