@@ -11,6 +11,7 @@
 
   <!-- ✅ Optional: reset body margin -->
   <style>
+    /*original styling don't mess*/
     body {
       margin: 0;
       padding: 0;
@@ -21,6 +22,56 @@
       overflow: hidden;
     }
 
+    /* Base toolbar styling */
+.polotno-toolbar {
+  font-size: 15px;
+  padding: 8px 12px;
+  gap: 10px;
+}
+
+/* Button style */
+.polotno-toolbar .bp5-button {
+  background-color: #1976d2; /* Material blue */
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 16px;
+  font-weight: 500;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  transition: background-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.polotno-toolbar .bp5-button:hover {
+  background-color: #1565c0;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.25);
+}
+
+/* Icon sizing inside buttons */
+.polotno-toolbar .bp5-button svg {
+  width: 20px;
+  height: 20px;
+}
+
+/* Select dropdowns */
+.polotno-toolbar .bp5-html-select select {
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 15px;
+  height: auto;
+}
+
+/* Popovers (e.g. color pickers) */
+.polotno-toolbar .bp5-popover-target {
+  border-radius: 6px;
+  padding: 8px;
+}
+
+/* Optional: increase spacing between elements */
+.polotno-toolbar > * {
+  margin-right: 8px;
+}
+    /*side panel styling*/
   .polotno-side-panel-tab {
     color: #444;
     padding: 10px;
