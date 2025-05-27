@@ -2,7 +2,7 @@
   {
     "id": "sample-template",
     "name": "Sample Template",
-    "preview": "https://hen-tu.github.io/polotno-assets-cf/templates/sample-card.jpg",
-    "url": "https://hen-tu.github.io/polotno-assets-cf/templates/sample-card.json"
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/sample-card.jpg",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/sample-card.json"
   }
 ]
