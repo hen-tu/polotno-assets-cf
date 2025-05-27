@@ -20,6 +20,49 @@
       height: 100vh;
       overflow: hidden;
     }
+
+  .polotno-side-panel-tab {
+    background-color: #f0f0f0;
+    color: #444;
+    border-radius: 8px;
+    padding: 10px;
+    transition: all 0.3s ease;
+  }
+
+  .polotno-side-panel-tab.active {
+    background-color: #ffffff;
+    color: #488fcc;
+    font-weight: bold;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  .polotno-side-panel-tab.active svg {
+    fill: #488fcc !important;
+  }
+
+  .polotno-side-panel-tab svg {
+    fill: #666 !important;
+    transition: fill 0.3s ease;
+  }
+
+  .polotno-side-panel-tab:hover {
+    background-color: #eaeaea;
+    cursor: pointer;
+  }
+
+  .polotno-side-panel-tab.active div {
+    color: #488fcc;
+  }
+
+    .polotno-side-panel-tab {
+  font-size: 15px; /* increase from default */
+}
+
+.polotno-side-panel-tab svg {
+  width: 20px;
+  height: 20px;
+}
+    
   </style>
 </head>
 <body>
