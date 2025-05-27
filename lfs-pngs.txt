@@ -1,0 +1,9 @@
+photos/boy-happy-smiling.jpg
+photos/boy-sad-frown.jpg
+photos/girl-friends.jpg
+photos/har-sinai-1.jpg
+photos/har-sinai-2.jpg
+photos/parchment-background.jpg
+photos/pencils-border.jpg
+photos/pomegranate-2.jpg
+templates/sample-card.jpg
