@@ -1,0 +1,28 @@
+
+/* Ensure the full app uses 100% space */
+#polotno-app-container {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+
+
+/* Hide image name label under thumbnails */
+.polotno-panel-container div div div:last-child {
+  display: none !important;
+}
+
+/* Optional: Improve appearance of download icon (if visible) */
+a[download] {
+  font-size: 16px;
+  text-decoration: none;
+  color: #333;
+}
+
+/* Optional: Soft hover effect on image containers */
+.polotno-panel-container > div > div:hover {
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  transform: scale(1.02);
+  transition: all 0.2s ease-in-out;
+}
