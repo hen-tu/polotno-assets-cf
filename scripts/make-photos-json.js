@@ -13,7 +13,7 @@ const lines = fs
 const photos = lines.map((filename) => {
   const id = filename.replace(/\.[^/.]+$/, '');
   const name = id.replace(/-/g, ' ');
-  const url = `/photos/${filename}`;
+  const url = `https://raw.githubusercontent.com/hen-tu/polotno-assets-cf/main/photos/${filename}`;
   return { id, name, url, previewUrl: url };
 });
 
@@ -28,4 +28,4 @@ fs.writeFileSync(
   'utf-8'
 );
 
-console.log(`✔  Wrote ${photos.length} entries to public/photos/index.json`);
+console.log(`✔  Wrote ${photos.length} entries to publichttps://raw.githubusercontent.com/hen-tu/polotno-assets-cf/main/photos/index.json`);
