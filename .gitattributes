@@ -2,3 +2,6 @@
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.jpeg filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
+
+photos/index.json -filter -diff -merge text
+templates/index.json -filter -diff -merge text
