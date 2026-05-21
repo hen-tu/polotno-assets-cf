@@ -8,3 +8,6 @@ templates/index.json -filter -diff -merge text
 
 templates/*.json -filter -diff -merge text
 templates/index.json -filter -diff -merge text
+
+templates/*.json -filter -diff -merge text
+templates/index.json -filter -diff -merge text
