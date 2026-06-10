@@ -8,6 +8,14 @@
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/bakery-girl-poster.json"
   },
   {
+    "id": "convertertest",
+    "name": "Converter Test",
+    "category": "Poster",
+    "set": "Bakery Girl",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/convertertest.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/convertertest.json"
+  },
+  {
     "id": "bakery-shop-poster",
     "name": "Bakery Shop Poster",
     "category": "Poster",
