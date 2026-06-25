@@ -3,23 +3,15 @@
     "id": "bakery-girl-poster",
     "name": "Bakery Girl Poster",
     "category": "Poster",
-    "set": "Bakery Girl",
+    "set": "Bakery",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/bakery-girl-poster.webp",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/bakery-girl-poster.json"
-  },
-  {
-    "id": "convertertest",
-    "name": "Converter Test",
-    "category": "Poster",
-    "set": "Bakery Girl",
-    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/convertertest.png",
-    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/convertertest.json"
   },
   {
     "id": "bakery-shop-poster",
     "name": "Bakery Shop Poster",
     "category": "Poster",
-    "set": "Bakery Shop",
+    "set": "Bakery",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/bakery-shop-poster.webp",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/bakery-shop-poster.json"
   },
@@ -35,7 +27,7 @@
     "id": "blue-candy-card",
     "name": "Blue Candy Card",
     "category": "Card",
-    "set": "Blue Candy",
+    "set": "Candy",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/blue-candy-card.webp",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/blue-candy-card.json"
   },
@@ -43,7 +35,7 @@
     "id": "blue-candy-poster",
     "name": "Blue Candy Poster",
     "category": "Poster",
-    "set": "Blue Candy",
+    "set": "Candy",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/blue-candy-poster.webp",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/blue-candy-poster.json"
   },
@@ -66,32 +58,32 @@
   {
     "id": "building-skills-dark-blue",
     "name": "Building Skills Dark Blue",
-    "category": "Template",
-    "set": "Building Skills Dark Blue",
+    "category": "Poster",
+    "set": "Building",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/building-skills-dark-blue.webp",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/building-skills-dark-blue.json"
   },
   {
     "id": "building-skills-light-blue",
     "name": "Building Skills Light Blue",
-    "category": "Template",
-    "set": "Building Skills Light Blue",
+    "category": "Poster",
+    "set": "Building",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/building-skills-light-blue.webp",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/building-skills-light-blue.json"
   },
   {
     "id": "building-skills-pink",
     "name": "Building Skills Pink",
-    "category": "Template",
-    "set": "Building Skills Pink",
+    "category": "Poster",
+    "set": "Building",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/building-skills-pink.webp",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/building-skills-pink.json"
   },
   {
     "id": "building-skills-purple",
     "name": "Building Skills Purple",
-    "category": "Template",
-    "set": "Building Skills Purple",
+    "category": "Poster",
+    "set": "Building",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/building-skills-purple.webp",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/building-skills-purple.json"
   },
@@ -99,7 +91,7 @@
     "id": "chevron-punch-card",
     "name": "Chevron Punch Card",
     "category": "Card",
-    "set": "Chevron Punch",
+    "set": "Chevron",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/chevron-punch-card.webp",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/chevron-punch-card.json"
   },
@@ -123,7 +115,7 @@
     "id": "construction-poster-template",
     "name": "Construction Poster Template",
     "category": "Poster",
-    "set": "Construction Poster",
+    "set": "Construction",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/construction-poster-template.webp",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/construction-poster-template.json"
   },
@@ -210,7 +202,7 @@
   {
     "id": "hall-pass",
     "name": "Hall Pass",
-    "category": "Template",
+    "category": "Card",
     "set": "Hall Pass",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/hall-pass.webp",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/hall-pass.json"
@@ -251,7 +243,7 @@
     "id": "pink-candy-card",
     "name": "Pink Candy Card",
     "category": "Card",
-    "set": "Pink Candy",
+    "set": "Candy",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/pink-candy-card.webp",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/pink-candy-card.json"
   },
@@ -259,7 +251,7 @@
     "id": "pink-candy-poster",
     "name": "Pink Candy Poster",
     "category": "Poster",
-    "set": "Pink Candy",
+    "set": "Candy",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/pink-candy-poster.webp",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/pink-candy-poster.json"
   },
@@ -291,7 +283,7 @@
     "id": "reading-punchcard",
     "name": "Reading Punchcard",
     "category": "Card",
-    "set": "Reading Punch",
+    "set": "Punch",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/reading-punchcard.webp",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/reading-punchcard.json"
   },
@@ -307,7 +299,7 @@
     "id": "spelling-scoop-banner",
     "name": "Spelling Scoop Banner",
     "category": "Banner",
-    "set": "Spelling Scoop",
+    "set": "Ice Cream",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/spelling-scoop-banner.webp",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/spelling-scoop-banner.json"
   },
@@ -315,7 +307,7 @@
     "id": "spelling-scoop-poster",
     "name": "Spelling Scoop Poster",
     "category": "Poster",
-    "set": "Spelling Scoop",
+    "set": "Ice Ctream",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/spelling-scoop-poster.webp",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/spelling-scoop-poster.json"
   },
@@ -323,7 +315,7 @@
     "id": "uno-theme-banner",
     "name": "Uno Theme Banner",
     "category": "Banner",
-    "set": "Uno Theme",
+    "set": "Uno",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/uno-theme-banner.webp",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/uno-theme-banner.json"
   },
@@ -331,8 +323,16 @@
     "id": "uno-theme-poster",
     "name": "Uno Theme Poster",
     "category": "Poster",
-    "set": "Uno Theme",
+    "set": "Uno",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/uno-theme-poster.webp",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/uno-theme-poster.json"
+  },
+  {
+    "id": "detecting-great-work-poster",
+    "name": "Detecting Great Work Poster",
+    "category": "poster",
+    "set": "Detecting Great Work",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/detecting-great-work-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/detecting-great-work-poster.json"
   }
 ]
