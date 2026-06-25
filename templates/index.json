@@ -334,5 +334,85 @@
     "set": "Detecting Great Work",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/detecting-great-work-poster.png",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/detecting-great-work-poster.json"
+  },
+  {
+    "id": "dressing-up-poster",
+    "name": "Dressing Up Poster",
+    "category": "posters",
+    "set": "Dressing Up",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/dressing-up-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/dressing-up-poster.json"
+  },
+  {
+    "id": "learning-with-class-poster",
+    "name": "Learning With Class Poster",
+    "category": "posters",
+    "set": "Learning With Class",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/learning-with-class-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/learning-with-class-poster.json"
+  },
+  {
+    "id": "lemon-stand-poster",
+    "name": "Lemon Stand Poster",
+    "category": "posters",
+    "set": "Lemon Stand",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/lemon-stand-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/lemon-stand-poster.json"
+  },
+  {
+    "id": "ribbon-2-poster",
+    "name": "Ribbon 2 Poster",
+    "category": "posters",
+    "set": "Ribbon",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/ribbon-2-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/ribbon-2-poster.json"
+  },
+  {
+    "id": "ribbon-poster",
+    "name": "Ribbon Poster",
+    "category": "posters",
+    "set": "Ribbon",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/ribbon-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/ribbon-poster.json"
+  },
+  {
+    "id": "road-to-success-poster",
+    "name": "Road to Success Poster",
+    "category": "posters",
+    "set": "Road to Success",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/road-to-success-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/road-to-success-poster.json"
+  },
+  {
+    "id": "sailing-through-poster",
+    "name": "Sailing Through Poster",
+    "category": "posters",
+    "set": "Sailing Through",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/sailing-through-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/sailing-through-poster.json"
+  },
+  {
+    "id": "sew-much-learning-poster",
+    "name": "Sew Much Learning Poster",
+    "category": "posters",
+    "set": "Sew Much Learning",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/sew-much-learning-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/sew-much-learning-poster.json"
+  },
+  {
+    "id": "soaring-poster",
+    "name": "Soaring Poster",
+    "category": "posters",
+    "set": "Soaring",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/soaring-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/soaring-poster.json"
+  },
+  {
+    "id": "watercolor-flower-poster",
+    "name": "Watercolor Flower Poster",
+    "category": "posters",
+    "set": "Watercolor Flower",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/watercolor-flower-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/watercolor-flower-poster.json"
   }
 ]
