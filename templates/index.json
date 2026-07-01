@@ -662,5 +662,13 @@
         "set": "Leather Plaque",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/leather-plaque-cover.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/leather-plaque-cover.json"
+    },
+    {
+        "id": "line-art-divider-tefilla",
+        "name": "Line Art Divider Tefilla",
+        "category": "covers",
+        "set": "Line Art Tefilla",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/line-art-divider-tefilla.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/line-art-divider-tefilla.json"
     }
 ]
