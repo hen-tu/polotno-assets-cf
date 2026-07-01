@@ -558,5 +558,21 @@
         "set": "Color Pencil Hebrew",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/color-pencil-welcome-sign-hebrew.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/color-pencil-welcome-sign-hebrew.json"
+    },
+    {
+        "id": "emboss-subject-cover-brown",
+        "name": "Emboss Subject Cover Brown",
+        "category": "covers",
+        "set": "Emboss Subject Brown",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/emboss-subject-cover-brown.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/emboss-subject-cover-brown.json"
+    },
+    {
+        "id": "emboss-subject-cover-blue",
+        "name": "Emboss Subject Cover Blue",
+        "category": "covers",
+        "set": "Emboss Subject Blue",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/emboss-subject-cover-blue.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/emboss-subject-cover-blue.json"
     }
 ]
