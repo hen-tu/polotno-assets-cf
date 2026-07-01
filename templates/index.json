@@ -486,5 +486,13 @@
         "set": "Bright Origami English",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/bright-origami-welcome-sign-english.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/bright-origami-welcome-sign-english.json"
+    },
+    {
+        "id": "brown-parchment-poster",
+        "name": "Brown Parchment Poster",
+        "category": "posters",
+        "set": "Brown Parchment",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/brown-parchment-poster.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/brown-parchment-poster.json"
     }
 ]
