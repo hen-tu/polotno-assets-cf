@@ -678,5 +678,21 @@
         "set": "Watercolor Sketch",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/watercolor-sketch-welcome-sign.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/watercolor-sketch-welcome-sign.json"
+    },
+    {
+        "id": "lockers-welcome-sign-hebrew",
+        "name": "Lockers Welcome Sign Hebrew",
+        "category": "welcome signs",
+        "set": "Lockers Hebrew",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/lockers-welcome-sign-hebrew.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/lockers-welcome-sign-hebrew.json"
+    },
+    {
+        "id": "lockers-welcome-sign-english",
+        "name": "Lockers Welcome Sign English",
+        "category": "welcome signs",
+        "set": "Lockers English",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/lockers-welcome-sign-english.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/lockers-welcome-sign-english.json"
     }
 ]
