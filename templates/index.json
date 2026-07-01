@@ -430,5 +430,29 @@
         "set": "A Life Connected",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/a-life-connected.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/a-life-connected.json"
+    },
+    {
+        "id": "board-and-supplies-welcome-sign-1",
+        "name": "Board And Supplies Welcome Sign 1",
+        "category": "welcome signs",
+        "set": "Board And Supplies Sign 1",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/board-and-supplies-welcome-sign-1.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/board-and-supplies-welcome-sign-1.json"
+    },
+    {
+        "id": "beige-parchment-poster",
+        "name": "Beige Parchment Poster",
+        "category": "posters",
+        "set": "Beige Parchment",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/beige-parchment-poster.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/beige-parchment-poster.json"
+    },
+    {
+        "id": "board-and-supplies-welcome-sign",
+        "name": "Board And Supplies Welcome Sign",
+        "category": "welcome signs",
+        "set": "Board And Supplies",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/board-and-supplies-welcome-sign.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/board-and-supplies-welcome-sign.json"
     }
 ]
