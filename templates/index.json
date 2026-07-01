@@ -606,5 +606,21 @@
         "set": "Floral Orange",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/floral-divider-orange.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/floral-divider-orange.json"
+    },
+    {
+        "id": "floral-divider-purple",
+        "name": "Floral Divider Purple",
+        "category": "covers",
+        "set": "Floral Purple",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/floral-divider-purple.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/floral-divider-purple.json"
+    },
+    {
+        "id": "floral-divider-pink",
+        "name": "Floral Divider Pink",
+        "category": "covers",
+        "set": "Floral Pink",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/floral-divider-pink.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/floral-divider-pink.json"
     }
 ]
