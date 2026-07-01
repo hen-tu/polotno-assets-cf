@@ -494,5 +494,13 @@
         "set": "Brown Parchment",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/brown-parchment-poster.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/brown-parchment-poster.json"
+    },
+    {
+        "id": "chalkboard-frame-poster",
+        "name": "Chalkboard Frame Poster",
+        "category": "posters",
+        "set": "Chalkboard Frame",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/chalkboard-frame-poster.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/chalkboard-frame-poster.json"
     }
 ]
