@@ -518,5 +518,21 @@
         "set": "Chalkboard",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/chalkboard-poster.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/chalkboard-poster.json"
+    },
+    {
+        "id": "clipboard-clipart-poster",
+        "name": "Clipboard Clipart Poster",
+        "category": "posters",
+        "set": "Clipboard Clipart",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/clipboard-clipart-poster.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/clipboard-clipart-poster.json"
+    },
+    {
+        "id": "chalkboard-welcome-sign-hebrew",
+        "name": "Chalkboard Welcome Sign Hebrew",
+        "category": "welcome signs",
+        "set": "Chalkboard Hebrew",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/chalkboard-welcome-sign-hebrew.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/chalkboard-welcome-sign-hebrew.json"
     }
 ]
