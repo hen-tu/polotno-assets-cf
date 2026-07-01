@@ -534,5 +534,29 @@
         "set": "Chalkboard Hebrew",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/chalkboard-welcome-sign-hebrew.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/chalkboard-welcome-sign-hebrew.json"
+    },
+    {
+        "id": "door-plaque-welcome-sign-english",
+        "name": "Door Plaque Welcome Sign English",
+        "category": "welcome signs",
+        "set": "Door Plaque English",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/door-plaque-welcome-sign-english.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/door-plaque-welcome-sign-english.json"
+    },
+    {
+        "id": "color-pencil-welcome-sign-english",
+        "name": "Color Pencil Welcome Sign English",
+        "category": "welcome signs",
+        "set": "Color Pencil English",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/color-pencil-welcome-sign-english.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/color-pencil-welcome-sign-english.json"
+    },
+    {
+        "id": "color-pencil-welcome-sign-hebrew",
+        "name": "Color Pencil Welcome Sign Hebrew",
+        "category": "welcome signs",
+        "set": "Color Pencil Hebrew",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/color-pencil-welcome-sign-hebrew.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/color-pencil-welcome-sign-hebrew.json"
     }
 ]
