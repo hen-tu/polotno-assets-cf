@@ -638,5 +638,21 @@
         "set": "Geometric Abstract",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/geometric-divider-abstract.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/geometric-divider-abstract.json"
+    },
+    {
+        "id": "line-art-divider-navi",
+        "name": "Line Art Divider Navi",
+        "category": "covers",
+        "set": "Line Art Navi",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/line-art-divider-navi.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/line-art-divider-navi.json"
+    },
+    {
+        "id": "line-art-divider-chumash",
+        "name": "Line Art Divider Chumash",
+        "category": "covers",
+        "set": "Line Art Chumash",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/line-art-divider-chumash.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/line-art-divider-chumash.json"
     }
 ]
