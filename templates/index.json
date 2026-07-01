@@ -670,5 +670,13 @@
         "set": "Line Art Tefilla",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/line-art-divider-tefilla.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/line-art-divider-tefilla.json"
+    },
+    {
+        "id": "line-art-divider-parsha",
+        "name": "Line Art Divider Parsha",
+        "category": "covers",
+        "set": "Line Art Parsha",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/line-art-divider-parsha.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/line-art-divider-parsha.json"
     }
 ]
