@@ -454,5 +454,37 @@
         "set": "Board And Supplies",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/board-and-supplies-welcome-sign.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/board-and-supplies-welcome-sign.json"
+    },
+    {
+        "id": "bright-origami-welcome-sign-hebrew",
+        "name": "Bright Origami Welcome Sign Hebrew",
+        "category": "welcome signs",
+        "set": "Bright Origami Hebrew",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/bright-origami-welcome-sign-hebrew.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/bright-origami-welcome-sign-hebrew.json"
+    },
+    {
+        "id": "bookstack-list",
+        "name": "Bookstack List",
+        "category": "posters",
+        "set": "Bookstack List",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/bookstack-list.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/bookstack-list.json"
+    },
+    {
+        "id": "bookstack-poster",
+        "name": "Bookstack Poster",
+        "category": "posters",
+        "set": "Bookstack",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/bookstack-poster.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/bookstack-poster.json"
+    },
+    {
+        "id": "bright-origami-welcome-sign-english",
+        "name": "Bright Origami Welcome Sign English",
+        "category": "welcome signs",
+        "set": "Bright Origami English",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/bright-origami-welcome-sign-english.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/bright-origami-welcome-sign-english.json"
     }
 ]
