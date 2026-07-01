@@ -574,5 +574,29 @@
         "set": "Emboss Subject Blue",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/emboss-subject-cover-blue.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/emboss-subject-cover-blue.json"
+    },
+    {
+        "id": "floral-divider-lt-pink",
+        "name": "Floral Divider Lt Pink",
+        "category": "covers",
+        "set": "Floral Lt Pink",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/floral-divider-lt-pink.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/floral-divider-lt-pink.json"
+    },
+    {
+        "id": "floral-divider-blue",
+        "name": "Floral Divider Blue",
+        "category": "covers",
+        "set": "Floral Blue",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/floral-divider-blue.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/floral-divider-blue.json"
+    },
+    {
+        "id": "floral-divider-green",
+        "name": "Floral Divider Green",
+        "category": "covers",
+        "set": "Floral Green",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/floral-divider-green.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/floral-divider-green.json"
     }
 ]
