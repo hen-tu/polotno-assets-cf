@@ -622,5 +622,21 @@
         "set": "Floral Pink",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/floral-divider-pink.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/floral-divider-pink.json"
+    },
+    {
+        "id": "geometric-divider-hexagon",
+        "name": "Geometric Divider Hexagon",
+        "category": "covers",
+        "set": "Geometric Hexagon",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/geometric-divider-hexagon.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/geometric-divider-hexagon.json"
+    },
+    {
+        "id": "geometric-divider-abstract",
+        "name": "Geometric Divider Abstract",
+        "category": "covers",
+        "set": "Geometric Abstract",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/geometric-divider-abstract.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/geometric-divider-abstract.json"
     }
 ]
