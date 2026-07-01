@@ -662,5 +662,21 @@
         "set": "Line Art Parsha",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/line-art-divider-parsha.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/line-art-divider-parsha.json"
+    },
+    {
+        "id": "torn-paper-poster",
+        "name": "Torn Paper Poster",
+        "category": "posters",
+        "set": "Torn Paper",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/torn-paper-poster.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/torn-paper-poster.json"
+    },
+    {
+        "id": "watercolor-sketch-welcome-sign",
+        "name": "Watercolor Sketch Welcome Sign",
+        "category": "welcome signs",
+        "set": "Watercolor Sketch",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/watercolor-sketch-welcome-sign.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/watercolor-sketch-welcome-sign.json"
     }
 ]
