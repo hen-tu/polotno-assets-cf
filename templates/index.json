@@ -598,5 +598,13 @@
         "set": "Floral Green",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/floral-divider-green.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/floral-divider-green.json"
+    },
+    {
+        "id": "floral-divider-orange",
+        "name": "Floral Divider Orange",
+        "category": "covers",
+        "set": "Floral Orange",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/floral-divider-orange.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/floral-divider-orange.json"
     }
 ]
