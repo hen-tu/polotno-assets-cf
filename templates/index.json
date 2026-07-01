@@ -502,5 +502,21 @@
         "set": "Chalkboard Frame",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/chalkboard-frame-poster.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/chalkboard-frame-poster.json"
+    },
+    {
+        "id": "chalkboard-welcome-sign-english",
+        "name": "Chalkboard Welcome Sign English",
+        "category": "welcome signs",
+        "set": "Chalkboard English",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/chalkboard-welcome-sign-english.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/chalkboard-welcome-sign-english.json"
+    },
+    {
+        "id": "chalkboard-poster",
+        "name": "Chalkboard Poster",
+        "category": "posters",
+        "set": "Chalkboard",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/chalkboard-poster.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/chalkboard-poster.json"
     }
 ]
