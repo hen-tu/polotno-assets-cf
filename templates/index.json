@@ -654,5 +654,13 @@
         "set": "Line Art Chumash",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/line-art-divider-chumash.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/line-art-divider-chumash.json"
+    },
+    {
+        "id": "leather-plaque-cover",
+        "name": "Leather Plaque Cover",
+        "category": "covers",
+        "set": "Leather Plaque",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/leather-plaque-cover.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/leather-plaque-cover.json"
     }
 ]
