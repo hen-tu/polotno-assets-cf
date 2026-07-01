@@ -750,5 +750,13 @@
         "set": "Pencil Letters English",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/pencil-letters-welcome-sign-english.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/pencil-letters-welcome-sign-english.json"
+    },
+    {
+        "id": "pencil-poster",
+        "name": "Pencil Poster",
+        "category": "posters",
+        "set": "Pencil",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/pencil-poster.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/pencil-poster.json"
     }
 ]
