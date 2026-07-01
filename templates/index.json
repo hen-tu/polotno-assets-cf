@@ -734,5 +734,21 @@
         "set": "Open Book Teal",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/open-book-teal-poster.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/open-book-teal-poster.json"
+    },
+    {
+        "id": "pencil-letters-welcome-sign-hebrew",
+        "name": "Pencil Letters Welcome Sign Hebrew",
+        "category": "welcome signs",
+        "set": "Pencil Letters Hebrew",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/pencil-letters-welcome-sign-hebrew.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/pencil-letters-welcome-sign-hebrew.json"
+    },
+    {
+        "id": "pencil-letters-welcome-sign-english",
+        "name": "Pencil Letters Welcome Sign English",
+        "category": "welcome signs",
+        "set": "Pencil Letters English",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/pencil-letters-welcome-sign-english.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/pencil-letters-welcome-sign-english.json"
     }
 ]
