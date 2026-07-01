@@ -1,0 +1,418 @@
+[
+  {
+    "id": "bakery-girl-poster",
+    "name": "Bakery Girl Poster",
+    "category": "Poster",
+    "set": "Bakery",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/bakery-girl-poster.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/bakery-girl-poster.json"
+  },
+  {
+    "id": "bakery-shop-poster",
+    "name": "Bakery Shop Poster",
+    "category": "Poster",
+    "set": "Bakery",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/bakery-shop-poster.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/bakery-shop-poster.json"
+  },
+  {
+    "id": "black-and-gold-certificate",
+    "name": "Black And Gold Certificate",
+    "category": "Certificate",
+    "set": "Black And Gold",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/black-and-gold-certificate.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/black-and-gold-certificate.json"
+  },
+  {
+    "id": "blue-candy-card",
+    "name": "Blue Candy Card",
+    "category": "Card",
+    "set": "Candy",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/blue-candy-card.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/blue-candy-card.json"
+  },
+  {
+    "id": "blue-candy-poster",
+    "name": "Blue Candy Poster",
+    "category": "Poster",
+    "set": "Candy",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/blue-candy-poster.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/blue-candy-poster.json"
+  },
+  {
+    "id": "blue-certificate",
+    "name": "Blue Certificate",
+    "category": "Certificate",
+    "set": "Blue",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/blue-certificate.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/blue-certificate.json"
+  },
+  {
+    "id": "brushing-up-poster",
+    "name": "Brushing Up Poster",
+    "category": "Poster",
+    "set": "Brushing Up",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/brushing-up-poster.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/brushing-up-poster.json"
+  },
+  {
+    "id": "building-skills-dark-blue",
+    "name": "Building Skills Dark Blue",
+    "category": "Poster",
+    "set": "Building",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/building-skills-dark-blue.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/building-skills-dark-blue.json"
+  },
+  {
+    "id": "building-skills-light-blue",
+    "name": "Building Skills Light Blue",
+    "category": "Poster",
+    "set": "Building",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/building-skills-light-blue.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/building-skills-light-blue.json"
+  },
+  {
+    "id": "building-skills-pink",
+    "name": "Building Skills Pink",
+    "category": "Poster",
+    "set": "Building",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/building-skills-pink.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/building-skills-pink.json"
+  },
+  {
+    "id": "building-skills-purple",
+    "name": "Building Skills Purple",
+    "category": "Poster",
+    "set": "Building",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/building-skills-purple.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/building-skills-purple.json"
+  },
+  {
+    "id": "chevron-punch-card",
+    "name": "Chevron Punch Card",
+    "category": "Card",
+    "set": "Chevron",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/chevron-punch-card.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/chevron-punch-card.json"
+  },
+  {
+    "id": "construction-banner",
+    "name": "Construction Banner",
+    "category": "Banner",
+    "set": "Construction",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/construction-banner.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/construction-banner.json"
+  },
+  {
+    "id": "construction-notepaper",
+    "name": "Construction Notepaper",
+    "category": "Notepaper",
+    "set": "Construction",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/construction-notepaper.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/construction-notepaper.json"
+  },
+  {
+    "id": "construction-poster-template",
+    "name": "Construction Poster Template",
+    "category": "Poster",
+    "set": "Construction",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/construction-poster-template.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/construction-poster-template.json"
+  },
+  {
+    "id": "cotton-candy-poster",
+    "name": "Cotton Candy Poster",
+    "category": "Poster",
+    "set": "Cotton Candy",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/cotton-candy-poster.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/cotton-candy-poster.json"
+  },
+  {
+    "id": "easy-as-pie-banner",
+    "name": "Easy As Pie Banner",
+    "category": "Banner",
+    "set": "Easy As Pie",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/easy-as-pie-banner.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/easy-as-pie-banner.json"
+  },
+  {
+    "id": "geometric-cover-1",
+    "name": "Geometric Cover 1",
+    "category": "Cover",
+    "set": "Geometric",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/geometric-cover-1.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/geometric-cover-1.json"
+  },
+  {
+    "id": "geometric-cover-2",
+    "name": "Geometric Cover 2",
+    "category": "Cover",
+    "set": "Geometric",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/geometric-cover-2.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/geometric-cover-2.json"
+  },
+  {
+    "id": "geometric-cover-3",
+    "name": "Geometric Cover 3",
+    "category": "Cover",
+    "set": "Geometric",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/geometric-cover-3.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/geometric-cover-3.json"
+  },
+  {
+    "id": "geometric-cover-4",
+    "name": "Geometric Cover 4",
+    "category": "Cover",
+    "set": "Geometric",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/geometric-cover-4.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/geometric-cover-4.json"
+  },
+  {
+    "id": "geometric-cover-5",
+    "name": "Geometric Cover 5",
+    "category": "Cover",
+    "set": "Geometric",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/geometric-cover-5.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/geometric-cover-5.json"
+  },
+  {
+    "id": "geometric-cover-6",
+    "name": "Geometric Cover 6",
+    "category": "Cover",
+    "set": "Geometric",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/geometric-cover-6.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/geometric-cover-6.json"
+  },
+  {
+    "id": "greatest-adventure-banner",
+    "name": "Greatest Adventure Banner",
+    "category": "Banner",
+    "set": "Greatest Adventure",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/greatest-adventure-banner.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/greatest-adventure-banner.json"
+  },
+  {
+    "id": "greatest-adventure-poster",
+    "name": "Greatest Adventure Poster",
+    "category": "Poster",
+    "set": "Greatest Adventure",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/greatest-adventure-poster.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/greatest-adventure-poster.json"
+  },
+  {
+    "id": "hall-pass",
+    "name": "Hall Pass",
+    "category": "Card",
+    "set": "Hall Pass",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/hall-pass.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/hall-pass.json"
+  },
+  {
+    "id": "mr-math-poster",
+    "name": "Mr Math Poster",
+    "category": "Poster",
+    "set": "Mr Math",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/mr-math-poster.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/mr-math-poster.json"
+  },
+  {
+    "id": "outer-space-notepaper",
+    "name": "Outer Space Notepaper",
+    "category": "Notepaper",
+    "set": "Outer Space",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/outer-space-notepaper.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/outer-space-notepaper.json"
+  },
+  {
+    "id": "out-of-this-world-banner",
+    "name": "Out Of This World Banner",
+    "category": "Banner",
+    "set": "Out Of This World",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/out-of-this-world-banner.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/out-of-this-world-banner.json"
+  },
+  {
+    "id": "out-of-this-world-poster",
+    "name": "Out Of This World Poster",
+    "category": "Poster",
+    "set": "Out Of This World",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/out-of-this-world-poster.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/out-of-this-world-poster.json"
+  },
+  {
+    "id": "pink-candy-card",
+    "name": "Pink Candy Card",
+    "category": "Card",
+    "set": "Candy",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/pink-candy-card.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/pink-candy-card.json"
+  },
+  {
+    "id": "pink-candy-poster",
+    "name": "Pink Candy Poster",
+    "category": "Poster",
+    "set": "Candy",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/pink-candy-poster.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/pink-candy-poster.json"
+  },
+  {
+    "id": "popcorn-banner",
+    "name": "Popcorn Banner",
+    "category": "Banner",
+    "set": "Popcorn",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/popcorn-banner.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/popcorn-banner.json"
+  },
+  {
+    "id": "popcorn-poster",
+    "name": "Popcorn Poster",
+    "category": "Poster",
+    "set": "Popcorn",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/popcorn-poster.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/popcorn-poster.json"
+  },
+  {
+    "id": "punch-card",
+    "name": "Punch Card",
+    "category": "Card",
+    "set": "Punch",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/punch-card.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/punch-card.json"
+  },
+  {
+    "id": "reading-punchcard",
+    "name": "Reading Punchcard",
+    "category": "Card",
+    "set": "Punch",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/reading-punchcard.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/reading-punchcard.json"
+  },
+  {
+    "id": "sketch-certificate",
+    "name": "Sketch Certificate",
+    "category": "Certificate",
+    "set": "Sketch",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/sketch-certificate.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/sketch-certificate.json"
+  },
+  {
+    "id": "spelling-scoop-banner",
+    "name": "Spelling Scoop Banner",
+    "category": "Banner",
+    "set": "Ice Cream",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/spelling-scoop-banner.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/spelling-scoop-banner.json"
+  },
+  {
+    "id": "spelling-scoop-poster",
+    "name": "Spelling Scoop Poster",
+    "category": "Poster",
+    "set": "Ice Ctream",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/spelling-scoop-poster.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/spelling-scoop-poster.json"
+  },
+  {
+    "id": "uno-theme-banner",
+    "name": "Uno Theme Banner",
+    "category": "Banner",
+    "set": "Uno",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/uno-theme-banner.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/uno-theme-banner.json"
+  },
+  {
+    "id": "uno-theme-poster",
+    "name": "Uno Theme Poster",
+    "category": "Poster",
+    "set": "Uno",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/uno-theme-poster.webp",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/uno-theme-poster.json"
+  },
+  {
+    "id": "detecting-great-work-poster",
+    "name": "Detecting Great Work Poster",
+    "category": "poster",
+    "set": "Detecting Great Work",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/detecting-great-work-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/detecting-great-work-poster.json"
+  },
+  {
+    "id": "dressing-up-poster",
+    "name": "Dressing Up Poster",
+    "category": "posters",
+    "set": "Dressing Up",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/dressing-up-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/dressing-up-poster.json"
+  },
+  {
+    "id": "learning-with-class-poster",
+    "name": "Learning With Class Poster",
+    "category": "posters",
+    "set": "Learning With Class",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/learning-with-class-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/learning-with-class-poster.json"
+  },
+  {
+    "id": "lemon-stand-poster",
+    "name": "Lemon Stand Poster",
+    "category": "posters",
+    "set": "Lemon Stand",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/lemon-stand-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/lemon-stand-poster.json"
+  },
+  {
+    "id": "ribbon-2-poster",
+    "name": "Ribbon 2 Poster",
+    "category": "posters",
+    "set": "Ribbon",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/ribbon-2-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/ribbon-2-poster.json"
+  },
+  {
+    "id": "ribbon-poster",
+    "name": "Ribbon Poster",
+    "category": "posters",
+    "set": "Ribbon",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/ribbon-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/ribbon-poster.json"
+  },
+  {
+    "id": "road-to-success-poster",
+    "name": "Road to Success Poster",
+    "category": "posters",
+    "set": "Road to Success",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/road-to-success-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/road-to-success-poster.json"
+  },
+  {
+    "id": "sailing-through-poster",
+    "name": "Sailing Through Poster",
+    "category": "posters",
+    "set": "Sailing Through",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/sailing-through-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/sailing-through-poster.json"
+  },
+  {
+    "id": "sew-much-learning-poster",
+    "name": "Sew Much Learning Poster",
+    "category": "posters",
+    "set": "Sew Much Learning",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/sew-much-learning-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/sew-much-learning-poster.json"
+  },
+  {
+    "id": "soaring-poster",
+    "name": "Soaring Poster",
+    "category": "posters",
+    "set": "Soaring",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/soaring-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/soaring-poster.json"
+  },
+  {
+    "id": "watercolor-flower-poster",
+    "name": "Watercolor Flower Poster",
+    "category": "posters",
+    "set": "Watercolor Flower",
+    "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/watercolor-flower-poster.png",
+    "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/watercolor-flower-poster.json"
+  }
+]
