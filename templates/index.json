@@ -710,5 +710,29 @@
         "set": "Open Book Blue",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/open-book-blue-poster.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/open-book-blue-poster.json"
+    },
+    {
+        "id": "open-book-yellow-poster",
+        "name": "Open Book Yellow Poster",
+        "category": "posters",
+        "set": "Open Book Yellow",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/open-book-yellow-poster.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/open-book-yellow-poster.json"
+    },
+    {
+        "id": "open-sefer-poster",
+        "name": "Open Sefer Poster",
+        "category": "posters",
+        "set": "Open Sefer",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/open-sefer-poster.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/open-sefer-poster.json"
+    },
+    {
+        "id": "open-book-teal-poster",
+        "name": "Open Book Teal Poster",
+        "category": "posters",
+        "set": "Open Book Teal",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/open-book-teal-poster.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/open-book-teal-poster.json"
     }
 ]
