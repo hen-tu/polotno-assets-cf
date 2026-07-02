@@ -218,7 +218,7 @@
     {
         "id": "clipboard-clipart-poster",
         "name": "Clipboard Clipart Poster",
-        "category": "Poster",
+        "category": "posters",
         "set": "Clipboard",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/clipboard-clipart-poster.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/clipboard-clipart-poster.json"
