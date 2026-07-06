@@ -977,9 +977,9 @@
     },
     {
         "id": "watercolor-flower-poster",
-        "name": "Bakery Girl Poster Bakery Shop Poster Black And Gold Certificate Blue Candy Card Blue Candy Poster Blue Certificate Brushing Up Poster Building Skills Dark Blue Building Skills Light Blue Building Skills Pink Building Skills Purple Chevron Punch Card Construction Banner Construction Notepaper Construction Poster Template Cotton Candy Poster Easy As Pie Banner Geometric Cover 1 Geometric Cover 2 Geometric Cover 3 Geometric Cover 4 Geometric Cover 5 Geometric Cover 6 Greatest Adventure Banner Greatest Adventure Poster Hall Pass Mr Math Poster Outer Space Notepaper Out Of This World Banner Out Of This World Poster Pink Candy Card Pink Candy Poster Popcorn Banner Popcorn Poster Punch Card Reading Punchcard Sketch Certificate Spelling Scoop Banner Spelling Scoop Poster Uno Theme Banner Uno Theme Poster Detecting Great Work Poster Dressing Up Poster Learning With Class Poster Lemon Stand Poster Ribbon 2 Poster Ribbon Poster Road to Success Poster Sailing Through Poster Sew Much Learning Poster Soaring Poster Watercolor Flower Poster",
-        "category": "Poster Poster Certificate Card Poster Certificate Poster Poster Poster Poster Poster Card Banner Notepaper Poster Poster Banner Cover Cover Cover Cover Cover Cover Banner Poster Card Poster Notepaper Banner Poster Card Poster Banner Poster Card Card Certificate Banner Poster Banner Poster poster posters posters posters posters posters posters posters posters posters posters",
-        "set": "void Set(int , System.Object )",
+        "name": "Dolly Theme Poster",
+        "category": "posters",
+        "set": "Dolly Theme",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/watercolor-flower-poster.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/watercolor-flower-poster.json"
     },
