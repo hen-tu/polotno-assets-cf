@@ -154,10 +154,10 @@
     {
         "id": "chalkboard-poster-template",
         "name": "Chalkboard Poster Template",
-        "category": "Poster",
+        "category": "posters",
         "set": "Chalkboard",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/chalkboard-poster.png",
-        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/Chalkboard%20Poster%20Template.json"
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/Chalkboard20Poster20Template.json"
     },
     {
         "id": "chalkboard-welcome-template",
