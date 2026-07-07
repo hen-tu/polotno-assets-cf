@@ -314,7 +314,7 @@
     {
         "id": "emboss-subject-cover-blue",
         "name": "Emboss Subject Cover Blue",
-        "category": "Covers",
+        "category": "covers",
         "set": "Emboss",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/emboss-subject-cover-blue.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/emboss-subject-cover-blue.json"
