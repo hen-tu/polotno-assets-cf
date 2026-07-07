@@ -322,7 +322,7 @@
     {
         "id": "emboss-subject-cover-brown",
         "name": "Emboss Subject Cover Brown",
-        "category": "Covers",
+        "category": "covers",
         "set": "Emboss",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/emboss-subject-cover-brown.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/emboss-subject-cover-brown.json"
