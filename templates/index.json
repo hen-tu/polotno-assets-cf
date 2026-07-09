@@ -538,7 +538,7 @@
     {
         "id": "line-art-divider-chumash",
         "name": "Line Art Divider Chumash",
-        "category": "Covers",
+        "category": "covers",
         "set": "Line Art",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/line-art-divider-chumash.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/line-art-divider-chumash.json"
