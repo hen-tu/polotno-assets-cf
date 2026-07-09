@@ -690,7 +690,7 @@
     {
         "id": "pencil-poster",
         "name": "Pencil Poster",
-        "category": "Poster",
+        "category": "posters",
         "set": "Pencil",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/pencil-poster.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/pencil-poster.json"
