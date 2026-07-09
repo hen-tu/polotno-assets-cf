@@ -946,7 +946,7 @@
     {
         "id": "textile-subject-cover-purple",
         "name": "Textile Subject Cover Purple",
-        "category": "Covers",
+        "category": "covers",
         "set": "Textile",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/textile-subject-cover-purple.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/textile-subject-cover-purple.json"
