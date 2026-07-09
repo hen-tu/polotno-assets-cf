@@ -618,7 +618,7 @@
     {
         "id": "open-book-pink-poster",
         "name": "Open Book Pink Poster",
-        "category": "Poster",
+        "category": "posters",
         "set": "Open Book",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/open-book-pink-poster.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/open-book-pink-poster.json"
