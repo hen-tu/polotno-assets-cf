@@ -834,7 +834,7 @@
     {
         "id": "sefer-divider-red",
         "name": "Sefer Divider Red",
-        "category": "Covers",
+        "category": "covers",
         "set": "Sefer",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/sefer-divider-red.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/sefer-divider-red.json"
