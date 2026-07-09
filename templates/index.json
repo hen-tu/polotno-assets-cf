@@ -610,7 +610,7 @@
     {
         "id": "open-book-blue-poster",
         "name": "Open Book Blue Poster",
-        "category": "Poster",
+        "category": "posters",
         "set": "Open Book",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/open-book-blue-poster.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/open-book-blue-poster.json"
