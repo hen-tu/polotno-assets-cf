@@ -738,7 +738,7 @@
     {
         "id": "plaque-subject-cover-pink",
         "name": "Plaque Subject Cover Pink",
-        "category": "Covers",
+        "category": "covers",
         "set": "Plaque",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/plaque-subject-cover-pink.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/plaque-subject-cover-pink.json"
