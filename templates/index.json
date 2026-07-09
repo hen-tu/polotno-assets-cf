@@ -522,7 +522,7 @@
     {
         "id": "leather-plaque-cover",
         "name": "Leather Plaque Cover",
-        "category": "Covers",
+        "category": "covers",
         "set": "Leather Plaque",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/leather-plaque-cover.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/leather-plaque-cover.json"
