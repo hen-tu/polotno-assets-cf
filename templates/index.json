@@ -642,7 +642,7 @@
     {
         "id": "open-sefer-poster",
         "name": "Open Sefer Poster",
-        "category": "Poster",
+        "category": "posters",
         "set": "Open Sefer",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/open-sefer-poster.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/open-sefer-poster.json"
