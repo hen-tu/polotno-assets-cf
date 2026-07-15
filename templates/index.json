@@ -998,5 +998,13 @@
         "set": "Test1",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/test1.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/test1.json"
+    },
+    {
+        "id": "highlighter-center-piece-1",
+        "name": "Highlighter Center Piece (1)",
+        "category": "posters",
+        "set": "Highlighter Center Piece ( )",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/highlighter-center-piece-1.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/highlighter-center-piece-1.json"
     }
 ]
