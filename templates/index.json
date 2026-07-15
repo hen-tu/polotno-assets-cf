@@ -1030,5 +1030,13 @@
         "set": "Abstract Writing",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/abstract-writing.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/abstract-writing.json"
+    },
+    {
+        "id": "orgami-banner",
+        "name": "Orgami Banner",
+        "category": "banners",
+        "set": "Orgami",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/orgami-banner.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/orgami-banner.json"
     }
 ]
