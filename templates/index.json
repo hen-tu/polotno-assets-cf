@@ -1022,5 +1022,13 @@
         "set": "Dressing Up",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/dressing-up-banner.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/dressing-up-banner.json"
+    },
+    {
+        "id": "abstract-writing",
+        "name": "Abstract Writing",
+        "category": "posters",
+        "set": "Abstract Writing",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/abstract-writing.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/abstract-writing.json"
     }
 ]
