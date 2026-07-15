@@ -1014,5 +1014,13 @@
         "set": "Floral Center",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/floral-center.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/floral-center.json"
+    },
+    {
+        "id": "dressing-up-banner",
+        "name": "Dressing Up Banner",
+        "category": "banners",
+        "set": "Dressing Up",
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/dressing-up-banner.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/dressing-up-banner.json"
     }
 ]
