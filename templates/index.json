@@ -18,10 +18,14 @@
     {
         "id": "beige-parchment-poster",
         "name": "Beige Parchment Poster",
-        "category": "banners",
-        "set": "Parchment",
+        "category": "posters",
+        "set": "parchment",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/beige-parchment-poster.png",
-        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/beige-parchment-poster.json"
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/beige-parchment-poster.json",
+        "categories": [
+            "posters"
+        ],
+        "showMoreInSet": true
     },
     {
         "id": "black-and-gold-certificate",
