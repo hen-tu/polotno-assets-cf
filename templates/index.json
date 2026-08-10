@@ -1042,5 +1042,17 @@
         "set": "Orgami",
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/orgami-banner.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/orgami-banner.json"
+    },
+    {
+        "id": "banner2",
+        "name": "banner2",
+        "category": "posters",
+        "categories": [
+            "posters"
+        ],
+        "set": "banner2",
+        "showMoreInSet": true,
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/banner2.png",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/banner2.json"
     }
 ]
