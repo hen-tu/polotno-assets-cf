@@ -1054,5 +1054,17 @@
         "showMoreInSet": true,
         "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/banner2.png",
         "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/banner2.json"
+    },
+    {
+        "id": "design-x6shyj7bwrd3",
+        "name": "design X6sHyJ7bwrD3",
+        "category": "posters",
+        "categories": [
+            "posters"
+        ],
+        "set": "design X6sHyJ7bwrD3",
+        "showMoreInSet": true,
+        "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/thumbs/design-x6shyj7bwrd3.jpg",
+        "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/design-x6shyj7bwrd3.json"
     }
 ]
